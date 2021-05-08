@@ -1,1 +1,1 @@
-# ultasound_disytance_smoothed_display
+# ultasound_distance_smoothed_display
